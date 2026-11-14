@@ -1,0 +1,54 @@
+{
+    "NADA-FMPW-8J3D-4FR5": {
+        "status": "active",
+        "bound_hwid": null,
+        "created_at": "2026-07-25 05:23:26",
+        "bound_at": null,
+        "duration_type": "1_month",
+        "expires_at": null,
+        "note": "Standard License"
+    },
+    "KARIMA-H2C9-CX98-RKZH": {
+        "status": "active",
+        "bound_hwid": null,
+        "created_at": "2026-07-25 05:23:39",
+        "bound_at": null,
+        "duration_type": "1_month",
+        "expires_at": null,
+        "note": "Standard License"
+    },
+    "AHMED-8SDW-BARU-PJMT": {
+        "status": "active",
+        "bound_hwid": null,
+        "created_at": "2026-07-25 05:23:51",
+        "bound_at": null,
+        "duration_type": "lifetime",
+        "expires_at": null,
+        "note": "Standard License"
+    },
+    "SB-9MLY-V63L-29B2": {
+        "status": "active",
+        "bound_hwid": "Windows-Universal",
+        "created_at": "2026-07-25 05:30:02",
+        "bound_at": "2026-07-25 05:31:03",
+        "duration_type": "lifetime",
+        "expires_at": null,
+        "note": "Standard License"
+    },
+    "SB-Y8VS-CHD3-95LP": {
+        "status": "active",
+        "bound_hwid": "Windows-Universal",
+        "created_at": "2026-07-25 05:15:16",
+        "bound_at": "2026-07-25 05:15:27",
+        "duration_type": "lifetime",
+        "expires_at": null,
+        "note": "Standard License"
+    },
+    "__SYSTEM_CONTROL__": {
+        "app_locked_for_update": false,
+        "update_title": "تحديث النظام",
+        "update_message": "النسخة تعمل بشكل طبيعي",
+        "update_url": "",
+        "updated_at": "2026-11-14 03:45:41"
+    }
+}
